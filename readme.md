@@ -1,1 +1,1 @@
-This is a repo for little .nii tools. I've made a few by now, perhaps they'll be helpful to others. I'm guessing most will essentially be SPM extensions
+This repository has a few quick and dirty convenience scripts for working with neuroimaging files (.nii, .fib, connectome text files)
